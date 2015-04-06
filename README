@@ -1,0 +1,8 @@
+Before you will be able to run these scripts you will need to have installed:
+ 
+Python 2.7
+Selenium WebDriver
+unittest
+HTMLTestRunner
+
+NOTE: the script smoketests.py will generate test reports in HTML format
